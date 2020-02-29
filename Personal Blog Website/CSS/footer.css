@@ -1,0 +1,38 @@
+body {font-family: font-family: Comic Sans Ms;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  color: grey;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #008080;
+  9;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #808080;
+  padding: 20px;
+}
+
+footer {
+  margin-top: 50px;
+  border-top: 3px solid grey;
+  font-family: Comic Sans Ms;
+}
